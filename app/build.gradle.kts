@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.android.application)
+    alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.kotlin.serialization)
 }
@@ -39,8 +40,6 @@ android {
         includeInApk = true
         includeInBundle = true
     }
-    buildToolsVersion = "36.1.0"
-    ndkVersion = "30.0.14904198 rc1"
 }
 
 dependencies {
