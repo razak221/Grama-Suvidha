@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "titleEn": "Main Road Repair",
+    "titleKn": "ಮುಖ್ಯ ರಸ್ತೆ ದುರಸ್ತಿ",
+    "budget": "₹5,00,000",
+    "expectedCompletion": "2024-12-31",
+    "statusEn": "In Progress",
+    "statusKn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "progress": 50,
+    "descriptionEn": "Repairing the main road connecting the village to the highway. This includes filling potholes, re-tarring the surface, and ensuring proper drainage on the sides.",
+    "descriptionKn": "ಹಳ್ಳಿಯನ್ನು ಹೆದ್ದಾರಿಗೆ ಸಂಪರ್ಕಿಸುವ ಮುಖ್ಯ ರಸ್ತೆಯನ್ನು ದುರಸ್ತಿ ಮಾಡಲಾಗುತ್ತಿದೆ. ಗುಂಡಿಗಳನ್ನು ಮುಚ್ಚುವುದು, ಮರು-ಟಾರ್ ಮಾಡುವುದು ಮತ್ತು ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಮಾಡುವುದು ಇದರಲ್ಲಿ ಸೇರಿದೆ.",
+    "beforeImageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?auto=format&fit=crop&q=80&w=800",
+    "afterImageUrl": null
+  },
+  {
+    "id": 2,
+    "titleEn": "Borewell Installation",
+    "titleKn": "ಬೋರ್‌ವೆಲ್ ಅಳವಡಿಕೆ",
+    "budget": "₹1,50,000",
+    "expectedCompletion": "2024-10-15",
+    "statusEn": "Completed",
+    "statusKn": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "progress": 100,
+    "descriptionEn": "Installing a new borewell near the community hall to address the drinking water shortage during summer.",
+    "descriptionKn": "ಬೇಸಿಗೆಯಲ್ಲಿ ಕುಡಿಯುವ ನೀರಿನ ಕೊರತೆಯನ್ನು ನೀಗಿಸಲು ಸಮುದಾಯ ಭವನದ ಬಳಿ ಹೊಸ ಬೋರ್‌ವೆಲ್ ಅಳವಡಿಸಲಾಗುತ್ತಿದೆ.",
+    "beforeImageUrl": "https://images.unsplash.com/photo-1574519961129-d5e022f4b4db?auto=format&fit=crop&q=80&w=800",
+    "afterImageUrl": "https://images.unsplash.com/photo-1628157745778-4399e2354c5c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 3,
+    "titleEn": "Pond Rejuvenation",
+    "titleKn": "ಕೊಳದ ಪುನಶ್ಚೇತನ",
+    "budget": "₹3,00,000",
+    "expectedCompletion": "2025-03-20",
+    "statusEn": "Started",
+    "statusKn": "ಪ್ರಾರಂಭಿಸಲಾಗಿದೆ",
+    "progress": 15,
+    "descriptionEn": "Cleaning, desilting, and deepening the village pond for better water storage and local ecosystem support.",
+    "descriptionKn": "ಉತ್ತಮ ನೀರು ಸಂಗ್ರಹಣೆಗಾಗಿ ಮತ್ತು ಸ್ಥಳೀಯ ಪರಿಸರ ವ್ಯವಸ್ಥೆಗೆ ಬೆಂಬಲ ನೀಡಲು ಗ್ರಾಮದ ಕೊಳವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುವುದು ಮತ್ತು ಆಳವಾಗಿಸುವುದು.",
+    "beforeImageUrl": "https://images.unsplash.com/photo-1590059345244-1296c6943891?auto=format&fit=crop&q=80&w=800",
+    "afterImageUrl": null
+  },
+  {
+    "id": 4,
+    "titleEn": "Solar Street Lights",
+    "titleKn": "ಸೌರ ಬೀದಿ ದೀಪಗಳು",
+    "budget": "₹2,50,000",
+    "expectedCompletion": "2024-11-30",
+    "statusEn": "In Progress",
+    "statusKn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "progress": 75,
+    "descriptionEn": "Installation of 50 solar-powered street lights across main intersections and dark zones in the village.",
+    "descriptionKn": "ಗ್ರಾಮದ ಮುಖ್ಯ ರಸ್ತೆಗಳು ಮತ್ತು ಕತ್ತಲೆಯ ಪ್ರದೇಶಗಳಲ್ಲಿ 50 ಸೌರಶಕ್ತಿ ಚಾಲಿತ ಬೀದಿ ದೀಪಗಳ ಅಳವಡಿಕೆ.",
+    "beforeImageUrl": "https://images.unsplash.com/photo-1533687358784-fa6d7e268612?auto=format&fit=crop&q=80&w=800",
+    "afterImageUrl": "https://images.unsplash.com/photo-1522221350812-70b181db87aa?auto=format&fit=crop&q=80&w=800"
+  }
+]

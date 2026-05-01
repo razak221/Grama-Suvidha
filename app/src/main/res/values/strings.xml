@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grama-Suvidha Portal</string>
+    <string name="project_list">Project List</string>
+    <string name="project_details">Project Details</string>
+    <string name="budget">Budget: %s</string>
+    <string name="completion_date">Expected Completion: %s</string>
+    <string name="status">Status: %s</string>
+    <string name="progress">Progress</string>
+    <string name="feedback">Citizen Feedback</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="submit">Submit</string>
+    <string name="switch_language">Switch Language</string>
+</resources>

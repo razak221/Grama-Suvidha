@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ಸುವಿಧಾ ಪೋರ್ಟಲ್</string>
+    <string name="project_list">ಯೋಜನೆಗಳ ಪಟ್ಟಿ</string>
+    <string name="project_details">ಯೋಜನೆಯ ವಿವರಗಳು</string>
+    <string name="budget">ಬಜೆಟ್: %s</string>
+    <string name="completion_date">ನಿರೀಕ್ಷಿತ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ: %s</string>
+    <string name="status">ಸ್ಥಿತಿ: %s</string>
+    <string name="progress">ಪ್ರಗತಿ</string>
+    <string name="feedback">ನಾಗರಿಕರ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="report_issue">ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="submit">ಸಲ್ಲಿಸು</string>
+    <string name="switch_language">ಭಾಷೆಯನ್ನು ಬದಲಿಸಿ</string>
+</resources>
