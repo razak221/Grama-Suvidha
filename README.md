@@ -18,6 +18,15 @@ The application is built using the **MVVM (Model-View-ViewModel)** architectural
 - **Data Layer (`ProjectRepository`):** Responsible for parsing the Mock API and caching the data in memory for instant offline retrieval.
 - **Images (Coil):** Uses the Coil library to asynchronously load and cache project images.
 
+## Technologies Used
+* **Language:** Kotlin
+* **UI Framework:** Jetpack Compose (with Material 3)
+* **Architecture:** MVVM (Model-View-ViewModel)
+* **Asynchronous Programming:** Kotlin Coroutines & StateFlow
+* **Image Loading:** Coil
+* **Data Parsing:** Kotlinx Serialization
+* **Build System:** Gradle (Kotlin DSL)
+
 ## Mock API Documentation
 
 To simulate backend communication and demonstrate offline caching, the application uses a local JSON file (`assets/projects.json`) acting as a Mock API response. 
