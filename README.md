@@ -2,6 +2,9 @@
 
 **Grama-Suvidha** is a transparency-focused Android project tracker built for the MindMatrix VTU Internship Program. It empowers citizens to stay informed about their community's development by listing government-funded projects, visualizing their "Digital Progress", and enabling feedback submission.
 
+## Problem Statement
+In many rural areas, there is a significant lack of transparency and accessibility regarding government-funded infrastructure projects. Citizens often struggle to stay informed about the progress of local development, understand how public funds are allocated, or report issues directly to the authorities. Existing platforms are rarely optimized for rural demographics, often lacking native language support (like Kannada) and offline accessibility. This disconnect breeds mistrust and prevents the community from actively participating in their village's growth.
+
 ## Features & Implementation
 - **Project List & Progress View:** Uses modern Jetpack Compose UI to dynamically display project data, including a sophisticated interactive "Before & After" image slider.
 - **Citizen Feedback:** A fully interactive feedback block allowing users to rate the infrastructure (1-5 stars) and submit text/image issue reports.
